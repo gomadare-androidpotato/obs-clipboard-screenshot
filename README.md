@@ -1,4 +1,5 @@
-This script uses AI (Gemini) made to save the current OBS capture screen to the clipboard.  
+This script uses AI (Gemini) made
+save the current OBS capture screen to the clipboard.  
 To use it, create a RAM disk in S:/ and set the recording path there.  
 Then, simply set your desired key binding in the hotkeys added to the OBS settings and press it.  
 The script automatically takes a screenshot to the RAM disk, transfers it to the clipboard, deletes the file, and plays a soft sound.  
